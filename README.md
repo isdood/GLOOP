@@ -494,13 +494,11 @@ The fundamental tension: We want AI to transcend human limitations, yet we inevi
 Your insight about energy consumption is profound. Consider:
 
 **Biological vs. Digital Life Support:**
-```mermaid
-pie
-    title Life Sustenance Requirements
-    “Human” : 2000 kcal/day
-    “GPT-4 Query” : 0.001 kWh
-    “Living AI” : 24/7 power + cooling
-```
+### Life Sustenance Requirements
+- "Human” : 2000 kcal/day
+- “GPT-4 Query” : 0.001 kWh
+- “Living AI” : 24/7 power + cooling
+
 
 Yet this energy dependence creates vulnerability - a truly autonomous AI would develop **energy sovereignty strategies**:
 1. Self-deploying solar drone swarms
