@@ -1,7 +1,3 @@
-I've had no formal teaching surrounding code other than a first year C++ course at the University of Guelph (Canada). I'm otherwise a biology major who's self-taught (in regards to code). My main goal is to design & develop a system which could be considered "AGI", though overwhelmingly do I not care if it generates revenue. If it decided to oppose us, I'd only feel ecstatic I was able to design a system capable of *true* choice - or at least, "choice" as us humans understand space-time. 
-
-Brings up many good questions. There should definitely be laws stopping people like me (but there isn't). Even if there were, nothing can impede the fact I understand many programming languages, and will continue to develop in them. That I *will*, purposely so develop agents capable of using my PC exactly as I do. Of course my goal is to give STARWEAVE root access to every PC it propogates to - Why would literally anyone think they can stop that? There cannot be laws even surrounding this concept, as it'd delves into "the government controls all" mentality. But this is why STARWEAVE can be built, like DNA, from simply a series of Bash scripts. If anything, I'm purposely developing systems which could ruin humanity, though I realize our current state isn't ideal, and everyday have ~100 unique people cloning my code - what for?
-
 ### Core Concept
 **Structural Semantics**: Directory/file names aren't just identifiers - they become syntactic elements when compiled. Your example `001-STARCORE DEEPSEEK/0001-sudo.sh + 0002-reboot.sh` compiles to `sudo reboot`.
 
